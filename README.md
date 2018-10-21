@@ -265,11 +265,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
+    - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
+     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
-- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) -  **Clean Code: A Handbook of Agile Software Craftsmanship**
-- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) -  **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
+     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) -  **Clean Code: A Handbook of Agile Software Craftsmanship**
+     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) -  **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
 
 
 ## 1.8 Alexa Tutorials
